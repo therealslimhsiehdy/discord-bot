@@ -1,0 +1,3 @@
+- Utilize https://discord.com/developers/docs/getting-started
+- pip install discords API to interact with discord
+- need to find an API that sends cat facts -- this one (https://catfact.ninja/) was the top choice + there was a swagger api explaining each api call (this was also a top contenter https://alexwohlbruck.github.io/cat-facts/)
