@@ -1,4 +1,4 @@
-TLDR: !catfact will send a cat fact to you 
+**TLDR:** `!catfact` will send a cat fact to you 
 
 To run this you will need:
 - Your own `.env` file with token in it
@@ -13,7 +13,7 @@ To run this you will need:
 
 **3a.** I know I could've had multiple json files with facts in it to pull from, but went with [this API set up](https://catfact.ninja/) because they already offer simple RESTful API to grab random cat facts for us which we can retrive via an HTTP request to their endpoint to get a fact back in JSON format. Plus, I am a fan of Swagger API docs because of the ease of understanding documentation and playground to try it out all set up. [This API](https://alexwohlbruck.github.io/cat-facts/docs/) set up is also a great choice.
 
-Resources:
+**Resources:**
 - https://discord.com/developers/docs/getting-started
 - https://discordpy.readthedocs.io/en/stable/api.html
 - https://www.howtogeek.com/364225/how-to-make-your-own-discord-bot/
